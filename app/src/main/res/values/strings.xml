@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vault</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="in_home">IN Home</string>
+    <string name="away_home">Away Home</string>
+    <string name="disarm">Disarm</string>
+</resources>
